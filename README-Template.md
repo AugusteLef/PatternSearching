@@ -1,88 +1,43 @@
-# Project Title
+# Where is Waldo - PatternSearching
 
-One Paragraph of project description goes here
+"Where is Waldo" is a program coded in java during my first year of Computer Science BCs at EPFL. The goal of this project was to be able to find a pattern on an image using two differents methods : Distance searching and Similarity searching. To make it more confortable and general, we make sure that you can use this program with any pattern and image and not juste with ours.
+This project was supervised by Pr. Jamila Sam in the context of the course : Introduction to Programation in JAVA.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To use this program you just need to run the class "frogram" from the package "/src". Then follow the instruction (fill the pattern, the background and the method of searching that you want use).
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+There is no needeed installation. Excepte Java (1.8 or more) and a compilator of your choice (Eclipse for us).
 
-```
-Give examples
-```
+//TO DO : A .jar runnable file to directly use the programm
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+1st : Download/clone the repository on you computer. 
+2nd : Open the file using a IDE (Eclipse for us, but other should work as intelliJ etc...)
+3nd : Run the file .programm and let you guide.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+To run tests use the the class `Main` (As it was our first project in Programmation we didn't already know how to use JUnit test)
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Test were checking the different step of our method and also compare them. You could see that the Distance search method doesn't work with certain type of image (to dark, to light ...).
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [eclipse](https://www.eclipse.org) -  Integrated development environment (IDE)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+No contribution directly possible. But if you have any idea/suggestion don't hesitate to send me a message. Remember that this was our first project in programation so the style is not good, and complexity too. But the purpose of this was more to learn how us Eclipse correctly and also developping easy but usful algotithms in the fields of image processing.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Augsute Lefevre** - *Initial work* - [AugusteLEF](https://github.com/AugusteLEF)
+* **Marc Watine** - *Initial work* - NO GITHUB at the time I'm writting this
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
