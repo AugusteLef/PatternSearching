@@ -1,5 +1,0 @@
-I did this project with Marc Watine in 1st year of Computer Science BCs at EPFL. It was supervised by Pr. Jamila Sam.
-The goal was to find Waldo in an image. We can also applied this technique to find any pattern in a image.
-To be a able to find a pattern in a image we define two different Algorithm : 
-The first one : *DistanceBasedSearch*. Then we upgrade our approach by using an other algorithm : *SimilarityBasedSearch*.
-To launch this program and test it with you own image juste launch the class "Program" in the package "/src"
