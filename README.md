@@ -38,6 +38,6 @@ No contribution directly possible. But if you have any idea/suggestion don't hes
 ## Authors
 
 * **Augsute Lefevre** - *Initial work* - [AugusteLEF](https://github.com/AugusteLEF)
-* **Marc Watine** - *Initial work* - NO GITHUB at the time I'm writting this
+* **Marc Watine** - *Initial work* - [MarcWatine](https://github.com/marcwatine)
 
 
